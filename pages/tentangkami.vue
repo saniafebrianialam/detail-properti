@@ -1,7 +1,7 @@
 <template>
     <section class="container relative bg-white">
         <div class="pb-[195px] pt-[192px]">
-            <div class="bg-primary ">             
+            <div class="bg-primary rounded-lg ">             
                     <p class="text-5xl text-[#415928] font-semibold leading-normal w-[650px] text-left pl-[58px] pt-[58px] pb-16">“Kami
                     adalah
                     penyedia properti dari negeri untuk negeri ”</p>
@@ -90,7 +90,7 @@
                 <div>
                     <p class="text-[#415928] text-[32px] leading-[42px] pl-[100px] pt-[47px]">“consectetur adipiscing elit.
                         Nunc vulputate libero et velit interdum, ac aliquet odio mattis.”</p>
-                    <p class="text-white text-[32px] leading-[42px] pl-[100px] font-semibold pt-[93px]">CEO & Founder”</p>
+                    <p class="text-white text-[32px] leading-[42px] pl-[100px] font-semibold pt-[93px]">CEO & Founder</p>
                     <div class="flex gap-x-[7px] pl-[100px] pt-[9px] pb-8">
                         <img src="assets/images/mdi_linkedin.png">
                         <img src="assets/images/mingcute_youtube-fill.png">
