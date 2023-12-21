@@ -12,8 +12,8 @@
             <p class="text-sm text-[#708C45] leading-6  text-center lg:text-left">Artikel</p>
             <h1 class="text-black text-2xl font-bold  lg:w-[250px] pb-2 leading-normal text-center lg:text-left">Perumahan paling terjangkau di sukabumi dibawah Rp 500
                 Juta</h1>
-            <img src="assets/images/Rectavngle 66.png" class="block lg:hidden">
-            <p class="text-[#999999] text-sm leading-[21px] lg:pb-[54px] text-justify lg:text-left leading-[21px]]">“Dorem ipsamet feugiat lectus. Class aptent taciti sociosqu ad litora
+            <img src="assets/images/Rectangle 66.png" class="block lg:hidden">
+            <p class="text-[#999999] text-sm leading-[21px] lg:pb-[54px] text-justify lg:text-left pt-2.5 lg:pt-0">“Dorem ipsamet feugiat lectus. Class aptent taciti sociosqu ad litora
                 torquent per conubia nostra, per inceptos “Dorem ipsamet feugiat lectus. Class aptent taciti sociosqu ad
                 litora torquent per conubia nostra, per inceptos “Dorem ipsamet feugiat lectus. Class aptent taciti sociosqu
                 ad litora torquent per conubia nostra, per inceptos “Dorem ipsamet feugiat lectus. Class aptent taciti
@@ -180,7 +180,7 @@
     <h1 class="text-black text-3xl lg:text-5xl font-semibold text-center lg:px-[400px] lg:leading-normal">Semua Berita dan Artikel</h1>
     <div class="grid grid-cols-2 lg:grid-cols-4 gap-6 pt-12">   
         <div class="flex flex-col gap-x-6  lg:gap-y-4   gap-y-4 items-center lg:items-start">
-            <img src="assets/images/Rectangle 32 (7).png">
+            <img src="assets/images/Rectangle 32 (7).png" class="w-[100%]"> 
             <div>
                 <div class="flex flex-col gap-x-4  lg:gap-y-1  ">
                     <p class="text-sm text-[#708C45] leading-6 ">Artikel</p>
@@ -196,7 +196,7 @@
 
         
         <div class="flex flex-col gap-x-6  lg:gap-y-4   gap-y-4 items-center lg:items-start">
-            <img src="assets/images/Rectangle 32 (8).png">
+            <img src="assets/images/Rectangle 32 (8).png" class="w-[100%]"> 
             <div>
                 <div class="flex flex-col gap-x-4  lg:gap-y-1  ">
                     <p class="text-sm text-[#708C45] leading-6 ">Berita</p>
@@ -212,23 +212,7 @@
 
 
         <div class="flex flex-col gap-x-6  lg:gap-y-4   gap-y-4 items-center lg:items-start">
-            <img src="assets/images/Rectangle 32 (9).png">
-            <div>
-                <div class="flex flex-col gap-x-4  lg:gap-y-1  ">
-                    <p class="text-sm text-[#708C45] leading-6 ">Berita</p>
-                    <h1 class="font-bold text-base text-black leading-6">Perumahan paling terjangkau di sukabumi dibawah Rp 500</h1>
-                    <p class="text-[#999999] text-sm leading-[21px]">“Dorem ipsamet feugiat lectus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per incept</p>
-                </div>
-                <div class="flex gap-x-[11px] pt-[26px]">
-                    <p class="text-sm text-black leading-6">Read More</p>
-                    <img src="assets/images/Arrow 4.svg">
-                </div>
-            </div>
-        </div>
-
-        
-        <div class="flex flex-col gap-x-6  lg:gap-y-4   gap-y-4 items-center lg:items-start">
-            <img src="assets/images/Rectangle 32 (10).png">
+            <img src="assets/images/Rectangle 32 (9).png" class="w-[100%]"> 
             <div>
                 <div class="flex flex-col gap-x-4  lg:gap-y-1  ">
                     <p class="text-sm text-[#708C45] leading-6 ">Berita</p>
@@ -244,7 +228,23 @@
 
         
         <div class="flex flex-col gap-x-6  lg:gap-y-4   gap-y-4 items-center lg:items-start">
-            <img src="assets/images/Rectangle 32 (11).png">
+            <img src="assets/images/Rectangle 32 (10).png" class="w-[100%]">
+            <div>
+                <div class="flex flex-col gap-x-4  lg:gap-y-1  ">
+                    <p class="text-sm text-[#708C45] leading-6 ">Berita</p>
+                    <h1 class="font-bold text-base text-black leading-6">Perumahan paling terjangkau di sukabumi dibawah Rp 500</h1>
+                    <p class="text-[#999999] text-sm leading-[21px]">“Dorem ipsamet feugiat lectus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per incept</p>
+                </div>
+                <div class="flex gap-x-[11px] pt-[26px]">
+                    <p class="text-sm text-black leading-6">Read More</p>
+                    <img src="assets/images/Arrow 4.svg">
+                </div>
+            </div>
+        </div>
+
+        
+        <div class="flex flex-col gap-x-6  lg:gap-y-4   gap-y-4 items-center lg:items-start">
+            <img src="assets/images/Rectangle 32 (11).png" class="w-[100%]">
             <div>
                 <div class="flex flex-col gap-x-4  lg:gap-y-1  ">
                     <p class="text-sm text-[#708C45] leading-6 ">Artikel</p>
@@ -260,7 +260,7 @@
 
         
         <div class="flex flex-col gap-x-6  lg:gap-y-4   gap-y-4 items-center lg:items-start">
-            <img src="assets/images/Rectangle 32 (12).png">
+            <img src="assets/images/Rectangle 32 (12).png" class="w-[100%]">
             <div>
                 <div class="flex flex-col gap-x-4  lg:gap-y-1  ">
                     <p class="text-sm text-[#708C45] leading-6 ">Berita</p>
@@ -276,7 +276,7 @@
 
         
         <div class="flex flex-col gap-x-6  lg:gap-y-4   gap-y-4 items-center lg:items-start">
-            <img src="assets/images/Rectangle 32 (13).png">
+            <img src="assets/images/Rectangle 32 (13).png" class="w-[100%]">
             <div>
                 <div class="flex flex-col gap-x-4  lg:gap-y-1  ">
                     <p class="text-sm text-[#708C45] leading-6 ">Berita</p>
@@ -292,7 +292,7 @@
 
         
         <div class="flex flex-col gap-x-6  lg:gap-y-4   gap-y-4 items-center lg:items-start">
-            <img src="assets/images/Rectangle 32 (3).png">
+            <img src="assets/images/Rectangle 32 (3).png" class="w-[100%]"> 
             <div>
                 <div class="flex flex-col gap-x-4  lg:gap-y-1  ">
                     <p class="text-sm text-[#708C45] leading-6 ">Berita</p>
