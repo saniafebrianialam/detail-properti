@@ -231,7 +231,7 @@
             <img src="assets/images/Rectangle 32 (10).png" class="w-[100%]">
             <div>
                 <div class="flex flex-col gap-x-4  lg:gap-y-1  ">
-                    <p class="text-sm text-[#708C45] leading-6 ">Berita</p>
+                    <p class="text-sm text-[#708C45] leading-6 ">Berita</p> 
                     <h1 class="font-bold text-base text-black leading-6">Perumahan paling terjangkau di sukabumi dibawah Rp 500</h1>
                     <p class="text-[#999999] text-sm leading-[21px]">“Dorem ipsamet feugiat lectus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per incept</p>
                 </div>

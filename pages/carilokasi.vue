@@ -6,7 +6,7 @@
                     <div class="flex justify-between gap-x-[163px] bg-white rounded-lg">
                         <div class="pl-7 py-4 pr-4">
                             <input type="text" name="" id="" placeholder="Masukan nama kota..."
-                                class="text-[#C8C8C8] py-4 leading-normal text-base">
+                                class="text-[#C8C8C8] py-4 leading-normal rounded text-base">
                         </div>
                         <div class=" py-4 pr-4">
                             <button class="bg-primary rounded-lg py-4 px-8">Cari</button>
@@ -14,7 +14,7 @@
                     </div>
                     <div class="flex justify-between pb-5 pt-2 items-center">
                         <div class=" flex gap-x-2  ">
-                            <div class="text-[#708C45] leading-normal text-xs bg-white">
+                            <div class="text-[#708C45] leading-normal  text-xs bg-white">
                                 <select name="" id="" class="p-2.5 ">
                                     <option value="">semua kota</option>
                                     <option value=""></option>
@@ -22,7 +22,7 @@
                                     <option value=""></option>
                                 </select>
                             </div>
-                            <div class="text-[#708C45] leading-normal text-xs  bg-white">
+                            <div class="text-[#708C45] leading-normal  text-xs  bg-white">
                                 <select name="" id="" class="p-2.5">
                                     <option value="">status</option>
                                     <option value=""></option>
@@ -30,8 +30,8 @@
                                     <option value=""></option>
                                 </select>
                             </div>
-                            <div class="text-[#708C45] leading-normal text-xs  bg-white">
-                                <select name="" id="" class="p-2.5">
+                            <div class="text-[#708C45] leading-normal  text-xs  bg-white">
+                                <select name="" id="" class="p-2.5 ">
                                     <option value="">type</option>
                                     <option value=""></option>
                                     <option value=""></option>
@@ -39,7 +39,7 @@
                                 </select>
                             </div>
                         </div>
-                        <div class="text-[#708C45] leading-normal text-xs p-2.5 bg-white">
+                        <div class="text-[#708C45] leading-normal rounded text-xs p-2.5 bg-white">
                             <label class=" flex justify-between items-center gap-x-2 ">Relevansi <img
                                     src="assets/images/solar_filter-outline.svg"></label>
                         </div>
@@ -56,13 +56,13 @@
                             <input type="text" name="" id="" placeholder="Masukan nama kota..."
                                 class="text-[#C8C8C8] py-4 leading-normal text-base">
                         </div>
-                        <div class=" py-4 pr-4">
+                         <div class=" py-4 pr-4">
                             <button class="bg-primary rounded-lg py-4 px-8">Cari</button>
                         </div>
                     </div>
                     <div class="flex justify-between pb-[35px] pt-2 items-center">
                         <div class=" flex gap-x-2  ">
-                            <div class="text-[#708C45] leading-normal text-xs bg-white">
+                            <div class="text-[#708C45] leading-normal rounded text-xs bg-white">
                                 <select name="" id="" class="p-2.5 ">
                                     <option value="">semua kota</option>
                                     <option value=""></option>
@@ -70,7 +70,7 @@
                                     <option value=""></option>
                                 </select>
                             </div>
-                            <div class="text-[#708C45] leading-normal text-xs  bg-white">
+                            <div class="text-[#708C45] leading-normal rounded text-xs  bg-white">
                                 <select name="" id="" class="p-2.5">
                                     <option value="">status</option>
                                     <option value=""></option>
@@ -78,7 +78,7 @@
                                     <option value=""></option>
                                 </select>
                             </div>
-                            <div class="text-[#708C45] leading-normal text-xs  bg-white">
+                            <div class="text-[#708C45] leading-normal rounded text-xs  bg-white">
                                 <select name="" id="" class="p-2.5">
                                     <option value="">type</option>
                                     <option value=""></option>
